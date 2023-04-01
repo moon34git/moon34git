@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+I'm Jihoon Moon
+
+[Include a brief introduction about yourself, such as your background, interests, and areas of expertise]
+
+Skills
+Python, PyTorch, Machine Learning, Deep Learning, Statistics ...
+Experience
+Currently in BigBase
+Education
+SeoulTech B.S student
+Projects
+[List any notable projects you have worked on, including links to their repositories or live demos]
+Contact
+[Include your contact information, such as email or social media handles, in case others want to reach out to you]
+-->
